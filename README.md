@@ -24,6 +24,8 @@
 
 6. Screenshot
    (https://github.com/RiyaKhandelwal088/Virat-Kohli-Dashboard/blob/main/Virat%20Kohli%20Analytics%20Dashboard.png)
+   <img width="326" height="424" alt="image" src="https://github.com/user-attachments/assets/cae23c28-2e43-4391-8ff5-6e2e047e03cc" />
+
   
 
    
