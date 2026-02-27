@@ -20,7 +20,10 @@
    • 📈 Runs Trend Visualization — Year-wise bar chart to identify peak performance seasons.
    • 🧮 Milestone Tracking — Visual breakdown of centuries and half-centuries over time.
    • 🟣 Boundary Distribution Analysis — Pie chart showing proportion of fours vs sixes.
-   • 🎨 User-Friendly Layout — Clear visual hierarchy with intuitive design for quick insights.
 
 6. Screenshot
+   (https://github.com/RiyaKhandelwal088/Virat-Kohli-Dashboard/blob/main/Virat%20Kohli%20Analytics%20Dashboard.png)
+   • 🎨 User-Friendly Layout — Clear visual hierarchy with intuitive design for quick insights.
+
+8. Screenshot
    
